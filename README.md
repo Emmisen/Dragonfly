@@ -9,7 +9,7 @@ Vad är då Dragonfly för ett spel, och hur spelar man det? Dragonfly är ett t
 Hur får jag sländan till min hemsida?
 -------
 
-Dragonfly finns att ladda ner på Github. <länk>
+Dragonfly finns att ladda ner på Github. https://github.com/Emmisen/Dragonfly
 
 Clona GitHub-filen till din webbplats, och börja använda den. 
 
